@@ -1,0 +1,15 @@
+--require('coc')
+require('treesitter')
+require('nvimTree')
+require('lua-line')
+--require('tab-line')
+--require('vim-airline')
+--require('vim-airline-themes')
+
+-- color scheme
+-- require('gruvbox')
+require('onedark')
+require('nvim-lspconfig')
+require('nvim-cmp')
+--require('indent-blankline')
+require('markdown-preview')
